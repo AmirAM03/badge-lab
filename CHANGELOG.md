@@ -5,3 +5,4 @@
 - Step 07: sandbox change merged via pull request.
 - Step 08: sandbox change merged via pull request.
 - Step 09: sandbox change merged via pull request.
+- Step 12: sandbox change merged via pull request.
