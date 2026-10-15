@@ -22,3 +22,4 @@ Steps 10 and 11 were re-run after a transient network failure during their first
 | 14 | [#13](https://github.com/AmirAM03/badge-lab/pull/13) Sandbox step 14 | 2026-10-15 |
 | 15 | [#14](https://github.com/AmirAM03/badge-lab/pull/14) Sandbox step 15 | 2026-10-15 |
 | Docs | [#19](https://github.com/AmirAM03/badge-lab/pull/19) Badge workflow archive (this document) | 2026-10-15 |
+| Docs | [#20](https://github.com/AmirAM03/badge-lab/pull/20) Pair Extraordinaire status note | 2026-10-15 |
