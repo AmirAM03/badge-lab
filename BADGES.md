@@ -14,7 +14,6 @@ This repository is a self-contained, documented sandbox used to earn GitHub prof
 | **Pull Shark — bronze** | 2 merged pull requests | [PR #1](https://github.com/AmirAM03/badge-lab/pull/1) and [PR #2](https://github.com/AmirAM03/badge-lab/pull/2). |
 | **Pull Shark — silver** | 16 merged pull requests | All 16 merged PRs in this repo ([merged list](https://github.com/AmirAM03/badge-lab/pulls?q=is%3Apr+is%3Amerged), [CHANGELOG.md](CHANGELOG.md)) — every PR is squash-merged. |
 | **Galaxy Brain — bronze** | 2 accepted answers in Discussions | [Discussion #17](https://github.com/AmirAM03/badge-lab/discussions/17) and [Discussion #18](https://github.com/AmirAM03/badge-lab/discussions/18) in the Q&A category, each with an accepted answer. |
-| **Pair Extraordinaire** | Co-authored commits on merged pull requests | See [the co-authored PR](https://github.com/AmirAM03/badge-lab/pulls?q=is%3Apr+is%3Amerged) using `Co-authored-by:` trailers. |
 
 ## Workflow used
 
@@ -23,7 +22,7 @@ This repository is a self-contained, documented sandbox used to earn GitHub prof
 3. **Squash merge without review** — `gh pr merge --squash --delete-branch` keeps history linear and the branch list clean. Because no review is requested and GitHub does not allow approving your own PR, the first of these granted **YOLO**.
 4. **Issue + fast close** — **Quickdraw** came from opening issue #3 and closing it (`--reason "not planned"`) within the same minute.
 5. **Q&A discussions** — Discussions were enabled on the repo, two Q&A threads were created with a documented answer each, and the answers were marked as accepted (**Galaxy Brain**).
-6. **Co-authored commits** — one pull request adds a commit with a `Co-authored-by:` trailer crediting a second GitHub account, which is what **Pair Extraordinaire** requires.
+6. **Co-authored commits (planned)** — a future pull request will add a commit with a `Co-authored-by:` trailer crediting a second GitHub account, which is what **Pair Extraordinaire** requires. The other account receives the badge too.
 
 ## Full index
 
@@ -35,6 +34,7 @@ This repository is a self-contained, documented sandbox used to earn GitHub prof
 ## Notes and limits
 
 - **Starstruck** (16 stars) requires other people to star a repo — it cannot honestly be self-farmed and is not pursued here.
+- **Pair Extraordinaire** is pending: it needs a commit co-authored with a second real GitHub account (a friend), which will be added as a follow-up pull request.
 - **Public Sponsor** requires sponsoring a developer or organization.
 - Historical achievements (Arctic Code Vault, Mars 2020) are no longer obtainable.
 - Heavy automation against third-party repositories could trip GitHub's abuse detection; everything in this repo deliberately stays within normal, human-scale usage of your own repository.
