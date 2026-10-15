@@ -12,7 +12,7 @@ This repository is a self-contained, documented sandbox used to earn GitHub prof
 | **YOLO** | Merge a pull request without review | [PR #1](https://github.com/AmirAM03/badge-lab/pull/1) was opened and squash-merged with no reviews ([my own PRs cannot be self-approved](https://docs.github.com/en/pull-requests)). |
 | **Quickdraw** | Close an issue or pull request within 5 minutes of opening | [Issue #3](https://github.com/AmirAM03/badge-lab/issues/3) was opened and closed ~30 seconds later. |
 | **Pull Shark — bronze** | 2 merged pull requests | [PR #1](https://github.com/AmirAM03/badge-lab/pull/1) and [PR #2](https://github.com/AmirAM03/badge-lab/pull/2). |
-| **Pull Shark — silver** | 16 merged pull requests | PRs [#1–#16](https://github.com/AmirAM03/badge-lab/pulls?q=is%3Apr+is%3Amerged) — every PR in this repo is squash-merged (see [CHANGELOG.md](CHANGELOG.md)). |
+| **Pull Shark — silver** | 16 merged pull requests | All 16 merged PRs in this repo ([merged list](https://github.com/AmirAM03/badge-lab/pulls?q=is%3Apr+is%3Amerged), [CHANGELOG.md](CHANGELOG.md)) — every PR is squash-merged. |
 | **Galaxy Brain — bronze** | 2 accepted answers in Discussions | [Discussion #17](https://github.com/AmirAM03/badge-lab/discussions/17) and [Discussion #18](https://github.com/AmirAM03/badge-lab/discussions/18) in the Q&A category, each with an accepted answer. |
 | **Pair Extraordinaire** | Co-authored commits on merged pull requests | See [the co-authored PR](https://github.com/AmirAM03/badge-lab/pulls?q=is%3Apr+is%3Amerged) using `Co-authored-by:` trailers. |
 
